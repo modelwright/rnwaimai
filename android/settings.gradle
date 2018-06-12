@@ -1,0 +1,3 @@
+rootProject.name = 'rnwaimai'
+
+include ':app'
